@@ -1,2 +1,2 @@
-# Webscraping
-This is a project with web scraping to visualize Tesla and GameStop stocks.
+# :rocket: Web scraping #
+Extracted and visualized Tesla and GameStop `live` stocks data from [macrotrends](https://www.macrotrends.net/).
